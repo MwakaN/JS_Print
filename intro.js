@@ -1,0 +1,1 @@
+alert("Name: Mwaka Namu" + "\n"  +"Height: 1.6m" +  "\n"+ "Country: Zambia");
